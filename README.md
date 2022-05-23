@@ -3,7 +3,9 @@
 This repository is associated with the study of cation ordering, as detailed in the manuscript, 
 namely "Insights of cation ordering in double perovskites oxides from machine learning".
 
-Manuscript link:
+Link to Datasets: https://doi.org/10.5281/zenodo.6570994
+
+Manuscript link: https://arxiv.org/abs/2201.04970
 
 Datasets utilized to construct all models as mentioned in the manuscript can be found under the folder 'Datasets' in this repository.
 The naming conventions follow the same order as used in the paper.
