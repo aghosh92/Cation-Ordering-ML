@@ -18,6 +18,7 @@ and downselecting important features.
 
 Notebook shows:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/Cation-Ordering-ML/blob/main/CausalModel.ipynb)
+
 How causal networks can be constructed using the important features to investigate structure-property relationships.
 
 Notebook shows:
