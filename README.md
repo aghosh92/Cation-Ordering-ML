@@ -24,7 +24,7 @@ Notebook shows:
 How causal networks can be constructed using the important features to investigate structure-property relationships.
 
 Notebook shows:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/Cation-Ordering-ML/blob/main/Example_SissoRegression_Matminer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/Cation-Ordering-ML/blob/main/SissoRegression.ipynb)
 
 How SISSO approach can be implemented within a regression environment to find the best combination of non-linearized 
 features with respect to the target using Matminer and Automatminer.
