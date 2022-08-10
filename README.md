@@ -3,6 +3,11 @@
 This repository is associated with the study of cation ordering, as detailed in the manuscript, 
 namely "Insights of cation ordering in double perovskites oxides from machine learning".
 
+Publication:
+A. Ghosh, G. Palanichamy, D. P. Trujillo, M. Shaikh, and S. Ghosh
+Insights into Cation Ordering of Double Perovskite Oxides from Machine Learning and Causal Relations, Chem. Mater. 2022.
+https://doi.org/10.1021/acs.chemmater.2c00217
+
 Link to Datasets: https://doi.org/10.5281/zenodo.6570994
 
 Manuscript link: https://arxiv.org/abs/2201.04970
